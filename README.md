@@ -11,7 +11,6 @@ This project helps one to visualize a sorting algorithm. Each element of the arr
 It compares the time taken by the different algorithm for sorting the array.
 
 
-
 ### Technologies
 
 - HTML 
