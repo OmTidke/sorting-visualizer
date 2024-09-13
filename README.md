@@ -1,5 +1,8 @@
 # Sorting Visualizer
 
+![Project Image](https://github.com/shubh67678/sorting-visualizer/blob/master/image/gif.gif)
+
+
 ## Description
 
 This project helps one to visualize a sorting algorithm. Each element of the array is displayed as a bar. The operations are colour coded such that: 
@@ -9,6 +12,7 @@ This project helps one to visualize a sorting algorithm. Each element of the arr
 3. Green - Element is in sorted position
 
 It compares the time taken by the different algorithm for sorting the array.
+
 
 
 ### Technologies
@@ -30,7 +34,4 @@ Useful links discribing the algorithms used
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
 
-[Back To The Top](#read-me-template)
-
 ---
-
